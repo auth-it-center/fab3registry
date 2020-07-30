@@ -1,2 +1,2 @@
 # fab3registry
-FabIII template web application
+FABIII template web application
