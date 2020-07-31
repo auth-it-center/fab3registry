@@ -1,0 +1,5 @@
+name: REST API
+description: Defines endpoints for the FAB directory
+package: Custom
+type: module
+core: 8.x
